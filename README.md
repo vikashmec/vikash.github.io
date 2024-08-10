@@ -15,7 +15,7 @@
 ### Tredence Analytics Private Limited (June 2021 - Present)
 #### Customer Insights and Strategic
 
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;"">
   <ui>
     <li>
       Engineered and automated data pipelines using PySpark, Python, and Airflow Data extraction from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
@@ -29,12 +29,10 @@
     <li>Performed Food SBU Level customer purchase trend Analysis for GLP consuming customer segment.</li>
     <li>Customer Segmentation: Led an advanced RFM-based customer segmentation model, enabling targeted offers that reduced order gaps and increased order value, resulting in a 16% GMV growth and improved retention of lapsed customers.</li>
     <li>Designed a LightGBM machine learning model to predict customer transitions between segments, achieving an accuracy of 70%.</li>
-    </ui>
-</div>
-
+    </ui></div>
+    
 #### Customer experience - Post Transaction
-
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;"">
   <ui>
     <li>
       Perfect Order : Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and increasing perfect orders from 33% to 55%.
@@ -45,8 +43,7 @@
     <li>
       Egregious Orders : Conducted detailed analysis of individual and combined pain points within post-transactional data, determining the threshold for each pain point below which the overall customer experience permanently deteriorates.
     </li>
-    </ui>
-</div>
+    </ui></div>
 
 ## Projects
 
@@ -54,7 +51,7 @@
 
 ## About
 
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;"">
 Data Analyst with 3+ years of experience specializing in harnessing data-driven methodologies to fuel business growth and enhance operational efficiency. My expertise encompasses a wide range of advanced analytical practices, including Descriptive Analysis, Root Cause Analysis, Lift Analysis, Predictive Analysis, attribution modeling, and customer profiling. Continuously learning to stay abreast of the latest trends in data science and Analytics. My experience also includes applying analytics and machine learning algorithms for customer segmentation, as well as conducting hypothesis testing and A/B testing etc. to focus on revamping marketing campaigns and used insights to help businesses overcome challenges.
 </div>
 
