@@ -35,7 +35,7 @@
 <div style="text-align: justify; margin-bottom: 20px;">
   <ui>
     <li style = "margin-bottom: 10px;">
-      <strong>Perfect Order</strong>: Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, <strong>reducing churn rate by 15%</strong> and increasing <strong>perfect orders from 33% to 55%</strong>.
+      <strong>Perfect Order</strong>: Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and increasing perfect orders from 33% to 55%.
     </li>
     <li style = "margin-bottom: 10px;">
       <strong>Store Checkout Satisfaction</strong>: Analyzed survey and operational metrics to identify correlation between checkout satisfaction ratings and wait times, contributing to improvement in customer experience scores.
