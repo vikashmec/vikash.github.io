@@ -39,7 +39,7 @@ Data Analyst with 3+ years of experience specializing in harnessing data-driven 
 - **Mobile:** +91 9351546443
 - **Email:** [vikasgupt14@gmail.com](mailto:vikasgupt14@gmail.com)
 - **Github:** [Vikash Gupta](https://github.com/vikashmec)
-- **LinkedIn:** [Vikash Gupta](https://www.linkedin.com/in/vikash-gupta-57a185184/)
+- **LinkedIn:** [https://www.linkedin.com/in/vikash-gupta-57a185184/](https://www.linkedin.com/in/vikash-gupta-57a185184/)
 
 
 Feel free to reach out for collaborations or inquiries!
