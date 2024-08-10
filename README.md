@@ -49,7 +49,9 @@
 ## About
 
 <div style="text-align: justify; margin-bottom: 20px;">
-Data Analyst with 3+ years of experience specializing in harnessing data-driven methodologies to fuel business growth and enhance operational efficiency. My expertise encompasses a wide range of advanced analytical practices, including Descriptive Analysis, Root Cause Analysis, Lift Analysis, Predictive Analysis, attribution modeling, and customer profiling. Continuously learning to stay abreast of the latest trends in data science and Analytics. My experience also includes applying analytics and machine learning algorithms for customer segmentation, as well as conducting hypothesis testing and A/B testing etc. to focus on revamping marketing campaigns and used insights to help businesses overcome challenges.
+Data Analyst with 3+ years of experience specializing in harnessing data-driven methodologies to fuel business growth and enhance operational efficiency. My expertise encompasses a wide range of advanced analytical practices, including Descriptive Analysis, Root Cause Analysis, Lift Analysis, Predictive Analysis, attribution modeling, and customer profiling. Continuously learning to stay abreast of the latest trends in data science and Analytics. 
+<br>
+My experience also includes applying analytics and machine learning algorithms for customer segmentation, as well as conducting hypothesis testing and A/B testing etc. to focus on revamping marketing campaigns and used insights to help businesses overcome challenges.
 </div>
 
 ## Contact Information
