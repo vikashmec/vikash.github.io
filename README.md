@@ -8,9 +8,10 @@
 - Databases: MongoDB, SQL
 
 ## Education
-- B.Tech, Mechanical Engineering - 8.4 CGPA | National Institute of Technology Uttarakhand, May 2021
+- B.Tech, Mechanical Engineering 8.4 CGPA | National Institute of Technology Uttarakhand, May 2021
 
 ## Work Experience
+
 ### Tredence Analytics Private Limited (June 2021 - Present)
 #### Customer Insights and Strategic
 
