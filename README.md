@@ -1,4 +1,4 @@
-# Data Scientist 
+# Data Analyst 
 
 ## Technical Skills
 - Programming languages: Python
@@ -31,19 +31,15 @@ increasing perfect orders from 33% to 55%.
 ## Projects
 
 
-## Awards & Scholarship
-- 2023-2024 TCoE Endowed Graduate Fellowship, recognizing excellence in technology and engineering research.
-
-## Publications
-- Comparative Study of Generative Models for Early Detection of Failures in Medical Devices, Conference ICMHI 2024.
-
-## Volunteering  & Leadership 
-- Data science club University of New Haven
 
 ## About
-Experienced Machine Learning (ML) engineer with over 5 years of expertise in data analysis, optimization, and research in Generative AI. Continuously learning to stay abreast of the latest trends in data science. Notable projects include developing generative models for fault detection in medical devices, achieving 97% accuracy, and enhancing a multilingual transformer-based Text-to-Speech (TTS) system for low-resource languages, which achieved a mean opinion score of 4.2 out of 5 in 6 months through innovative approaches. Led brainstorming sessions to identify new opportunities in testing automation, reducing testing time by 40%. Implemented and maintained a speech conversation chatbot, improving user experience by 40% through effective MLOps deployment and management.
+Data Analyst with 3+ years of experience specializing in harnessing data-driven methodologies to fuel business growth and enhance operational efficiency. My expertise encompasses a wide range of advanced analytical practices, including Descriptive Analysis, Root Cause Analysis, Lift Analysis, Predictive Analysis, attribution modeling, and customer profiling. Continuously learning to stay abreast of the latest trends in data science and Analytics. My experience also includes applying analytics and machine learning algorithms for customer segmentation, as well as conducting hypothesis testing and A/B testing etc. to focus on revamping marketing campaigns and used insights to help businesses overcome challenges.
+
 ## Contact Information
 - **Mobile:** +91 9351546443
+- **Email:** [vikasgupt14@gmail.com](mailto:vikasgupt14@gmail.com)
+- **LinkedIn:** [Vikash Kumar Gupta](https://www.linkedin.com/in/vikash-gupta-57a185184/))
+-  **Github:** [https://www.linkedin.com/in/vikash-gupta-57a185184/](https://www.linkedin.com/in/vikash-gupta-57a185184/)
 - **Email:** [vikasgupt14@gmail.com](mailto:vikasgupt14@gmail.com)
 - **LinkedIn:** [Vikash Gupta](https://www.linkedin.com/in/vikash-gupta-57a185184/)
 
