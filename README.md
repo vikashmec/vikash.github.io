@@ -15,7 +15,7 @@
 ### Tredence Analytics Private Limited (June 2021 - Present)
 #### Customer Insights and Strategic
 
-<div style="text-align: justify; margin-bottom: 20px;"">
+<div style="text-align: justify; margin-bottom: 20px;">
   <ui>
     <li>
       Engineered and automated data pipelines using PySpark, Python, and Airflow Data extraction from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
@@ -32,7 +32,7 @@
     </ui></div>
     
 #### Customer experience - Post Transaction
-<div style="text-align: justify; margin-bottom: 20px;"">
+<div style="text-align: justify; margin-bottom: 20px;">
   <ui>
     <li>
       Perfect Order : Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and increasing perfect orders from 33% to 55%.
@@ -51,7 +51,7 @@
 
 ## About
 
-<div style="text-align: justify; margin-bottom: 20px;"">
+<div style="text-align: justify; margin-bottom: 20px;">
 Data Analyst with 3+ years of experience specializing in harnessing data-driven methodologies to fuel business growth and enhance operational efficiency. My expertise encompasses a wide range of advanced analytical practices, including Descriptive Analysis, Root Cause Analysis, Lift Analysis, Predictive Analysis, attribution modeling, and customer profiling. Continuously learning to stay abreast of the latest trends in data science and Analytics. My experience also includes applying analytics and machine learning algorithms for customer segmentation, as well as conducting hypothesis testing and A/B testing etc. to focus on revamping marketing campaigns and used insights to help businesses overcome challenges.
 </div>
 
