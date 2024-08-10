@@ -13,7 +13,8 @@
 ## Work Experience
 ### Tredence Analytics Private Limited (June 2021 - Present)
 #### Customer Insights and Strategic
-<p align="center">
+
+<div style="text-align: justify;">
 - Engineered and automated data pipelines using PySpark, Python, and Airflow Data extraction from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
 - Implemented a Root Cause Analysis (RCA) methodology and executed Lift Analysis, quantified gift card impact, revealing that gift card customers spend 40% more than non-gift card customers.
 - Performed an overlap analysis on Rx store and Rx OPD transactions, followed by a Root Cause Analysis (RCA) to understand the low (1-2%) overlap between these two customer segments.
@@ -23,15 +24,14 @@
 - Performed Food SBU Level customer purchase trend Analysis for GLP consuming customer segment.
 - Customer Segmentation: Led an advanced RFM-based customer segmentation model, enabling targeted offers that reduced order gaps and increased order value, resulting in a 16% GMV growth and improved retention of lapsed customers.
 - Designed a LightGBM machine learning model to predict customer transitions between segments, achieving an accuracy of 70%.
-</p>
-
+</div>
 #### Customer experience - Post Transaction
-
+<div style="text-align: justify;">
 - Perfect Order : Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and
 increasing perfect orders from 33% to 55%.
 - Store Checkout Satisfaction: Analyzed survey and operational metrics to identify correlation between checkout satisfaction ratings and wait times, contributing to improvement in customer experience scores.
 - Egregious Orders: Conducted detailed analysis of individual and combined pain points within post-transactional data, determining the threshold for each pain point below which the overall customer experience permanently deteriorates.
-
+</div>
 ## Projects
 
 
