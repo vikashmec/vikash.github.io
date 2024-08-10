@@ -16,7 +16,7 @@
 #### Customer Insights and Strategic
 
 <div style="text-align: justify; margin-bottom: 20px;">
-  <ui>
+  <ui style = "margin-bottom: 10px;">
     <li>
       Engineered and automated data pipelines using PySpark, Python, and Airflow Data extraction from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
     </li>
