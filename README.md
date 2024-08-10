@@ -13,7 +13,7 @@
 ## Work Experience
 ### Tredence Analytics Private Limited (June 2021 - Present)
 #### Customer Insights and Strategic
-- Engineered and automated data pipelines using PySpark, Python, and Airflow; extracted data from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
+- Engineered and automated data pipelines using PySpark, Python, and Airflow Data extraction from multiple sources and transformed into final tables in Hive and Postgres, reducing manual processing time by 50%.
 - Implemented a Root Cause Analysis (RCA) methodology and executed Lift Analysis, quantified gift card impact, revealing that gift card customers spend 40% more than non-gift card customers.
 - Performed an overlap analysis on Rx store and Rx OPD transactions, followed by a Root Cause Analysis (RCA) to understand the low (1-2%) overlap between these two customer segments.
 - Analyzed footfall data for categorizing stores based on prospective sales opportunity of health insurance, also identifying top 5 states having 45% of total senior shoppers.
