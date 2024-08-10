@@ -23,7 +23,7 @@
 - Customer Segmentation: Led an advanced RFM-based customer segmentation model, enabling targeted offers that reduced order gaps and increased order value, resulting in a 16% GMV growth and improved retention of lapsed customers.
 - Designed a LightGBM machine learning model to predict customer transitions between segments, achieving an accuracy of 70%.
   
-#### Customer experience (Post Transaction)
+#### Customer experience - Post Transaction
 
 - Perfect Order : Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and
 increasing perfect orders from 33% to 55%.
