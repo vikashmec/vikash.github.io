@@ -45,9 +45,6 @@
     </li>
     </ui></div>
 
-## Projects
-
-
 
 ## About
 
