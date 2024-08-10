@@ -27,7 +27,7 @@
     <li>Spearheaded the creation of Collibra reports, KPIs, and metrics; onboarded and organized critical data tables, establishing data lineage for dashboards that boosted data governance practices.</li>
     <li>Built data engineering pipeline for 80+ features from different upstream data sources to provide training data for the customer persona classification model created by the client’s ML team.</li>
     <li>Performed Food SBU Level customer purchase trend Analysis for GLP consuming customer segment.</li>
-    <li>Customer Segmentation: Led an advanced RFM-based customer segmentation model, enabling targeted offers that reduced order gaps and increased order value, resulting in a 16% GMV growth and improved retention of lapsed customers.</li>
+    <li><strong>Customer Segmentation</strong>: Led an advanced RFM-based customer segmentation model, enabling targeted offers that reduced order gaps and increased order value, resulting in a <strong>16% GMV growth</strong> and improved retention of lapsed customers.</li>
     <li>Designed a LightGBM machine learning model to predict customer transitions between segments, achieving an accuracy of 70%.</li>
     </ui></div>
     
@@ -35,13 +35,13 @@
 <div style="text-align: justify; margin-bottom: 20px;">
   <ui>
     <li>
-      Perfect Order : Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, reducing churn rate by 15% and increasing perfect orders from 33% to 55%.
+      <strong>Perfect Order</strong>: Established a customer experience-driven metric that holistically captured end-to-end customer interactions; leveraged analytics to elevate customer satisfaction, <strong>reducing churn rate by 15%</strong> and increasing <strong>perfect orders from 33% to 55%</strong>.
     </li>
     <li>
-      Store Checkout Satisfaction: Analyzed survey and operational metrics to identify correlation between checkout satisfaction ratings and wait times, contributing to improvement in customer experience scores.
+      <strong>Store Checkout Satisfaction</strong>: Analyzed survey and operational metrics to identify correlation between checkout satisfaction ratings and wait times, contributing to improvement in customer experience scores.
     </li>
     <li>
-      Egregious Orders : Conducted detailed analysis of individual and combined pain points within post-transactional data, determining the threshold for each pain point below which the overall customer experience permanently deteriorates.
+      <strong>Egregious Orders</strong>: Conducted detailed analysis of individual and combined pain points within post-transactional data, determining the threshold for each pain point below which the overall customer experience permanently deteriorates.
     </li>
     </ui></div>
 
